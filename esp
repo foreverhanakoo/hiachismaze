@@ -1,6 +1,1 @@
-Rayfield:Notify({
-   Title = "Work in Progress",
-   Content = "Esp is not available yet, Check back later.",
-   Duration = 6.5,
-   Image = 4483362458,
-})
+print("Work in Progress.")
